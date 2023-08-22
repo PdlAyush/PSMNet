@@ -19,8 +19,8 @@ data_root = '/content/drive/MyDrive/drivingstereo/foggy'
 
 
 batch_size_train = 1
-max_epochs = 200
-learning_rate = 0.1
+max_epochs = 150
+learning_rate = 0.001
 
 
 transform = transforms.Compose([
